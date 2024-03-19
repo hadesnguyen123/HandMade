@@ -1,5 +1,8 @@
-import p1_img from "./hero_resin.png";
-import p2_img from "./resin1.png";
+import p1_img from "./flower1.png";
+import p2_img from "./flower2.png";
+import p3_img from "./flower3.png";
+import p4_img from "./flower4.png";
+
 
 // import p2_img from "./product_35.png";
 // import p3_img from "./product_14.png";
@@ -27,14 +30,14 @@ let new_collections = [
   {
     id: 14,
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    image: p1_img,
+    image: p3_img,
     new_price: 60.0,
     old_price: 100.5,
   },
   {
     id: 8,
     name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
-    image: p2_img,
+    image: p4_img,
     new_price: 100.0,
     old_price: 150.0,
   },
@@ -55,14 +58,14 @@ let new_collections = [
   {
     id: 17,
     name: "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
-    image: p1_img,
+    image: p3_img,
     new_price: 60.0,
     old_price: 100.5,
   },
   {
     id: 28,
     name: "Boys Orange Colourblocked Hooded Sweatshirt",
-    image: p2_img,
+    image: p4_img,
     new_price: 100.0,
     old_price: 150.0,
   },
